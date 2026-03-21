@@ -7,7 +7,7 @@
 
 ## 🌐 View the Full Codex
 
-**[→ Open the Interactive Wiki](https://shinkingship.github.io/Ironbloom-Project/)**
+**[→ Open the Interactive Wiki](https://shinkingship.github.io/Ironbloom-Project/ironbloom-wiki.html)**
 
 The full lore is available as a searchable, navigable HTML wiki with dark fantasy styling.
 
