@@ -7,7 +7,7 @@
 
 ## 🌐 View the Full Codex
 
-**[→ Open the Interactive Wiki](https://YOUR-USERNAME.github.io/ironbloom)**
+**[→ Open the Interactive Wiki](https://shinkingship.github.io/Ironbloom-Project/)**
 
 The full lore is available as a searchable, navigable HTML wiki with dark fantasy styling.
 
@@ -56,7 +56,7 @@ git init
 git add .
 git commit -m "Initial IRONBLOOM codex"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ironbloom.git
+git remote add origin https://shinkingship.github.io/Ironbloom-Project.git
 git push -u origin main
 ```
 
@@ -65,7 +65,7 @@ git push -u origin main
 2. Under **Source**, select **Deploy from a branch**
 3. Branch: `main`, folder: `/ (root)`
 4. Click **Save**
-5. Wait ~2 minutes, then visit: `https://YOUR-USERNAME.github.io/ironbloom`
+5. Wait ~2 minutes, then visit: `https://shinkingship.github.io/Ironbloom-Project/`
 
 ---
 
