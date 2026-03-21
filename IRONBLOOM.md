@@ -1,10 +1,12 @@
 # IRONBLOOM — World Lore Document
+
 > *A living document. Updated as the world grows.*
 > *Far-future Asia. Biomechanical Convergence. The Unraveling. What remains.*
 
 ---
 
 ## Table of Contents
+
 1. [The Age That Was](#the-age-that-was)
 2. [The Unraveling](#the-unraveling)
 3. [The World Now](#the-world-now)
@@ -13,7 +15,10 @@
 6. [The Tribes](#the-tribes)
 7. [The Forged Fauna — Bestiary](#the-forged-fauna--bestiary)
 8. [The Ancient Ones](#the-ancient-ones)
-9. [Story Hooks & The Central Mission](#story-hooks--the-central-mission)
+9. [The Five Cores](#the-five-cores)
+10. [The Knowledge Hierarchy](#the-knowledge-hierarchy)
+11. [The Human Civilization Question](#the-human-civilization-question)
+12. [Story Hooks & The Central Mission](#story-hooks--the-central-mission)
 
 ---
 
@@ -59,7 +64,7 @@ The Pale Frequency faded. The Destroyer strain — without the signal sustaining
 
 ## The World Now
 
-Centuries have passed. The Vaults entered dormancy. The Forged Fauna diversified into true ecosystems. Human civilization regressed to **scattered tribal societies**, each shaped by their relationship with the machines around them.
+**Approximately 800 years have passed** since the Unraveling. The Vaults entered dormancy. The Forged Fauna diversified into true ecosystems. Human civilization regressed to **scattered tribal societies**, each shaped by their relationship with the machines around them.
 
 The Destroyer strain is still out there. Dormant. Not dead.
 
@@ -69,7 +74,9 @@ The Pale Frequency moved in a pattern once. Patterns repeat.
 
 The surviving world has one existential task: **find a way to shield KAIROS-lineage fauna from the Pale Frequency** before it returns. If the Destroyer strain wakes again, humanity does not survive a second Unraveling.
 
-The problem: humans are also greedy, political, and short-sighted. Some factions aren't trying to stop the signal. They're trying to *use* it.
+The problem: **almost no one knows this mission exists.** Knowledge of the Pale Frequency, its mechanics, and the shield framework is held by only a handful of the most senior Veinborn — those who have undergone multiple Sigma upgrades over decades, old enough to have received the deepest layers of Vault knowledge. Even among the Veinborn, the majority know nothing of it. The other tribes have no knowledge of it at all.
+
+Some factions aren't trying to stop the signal. They're trying to *use* it — without understanding that using it means waking the Destroyer strain.
 
 ---
 
@@ -78,7 +85,7 @@ The problem: humans are also greedy, political, and short-sighted. Some factions
 > All biomes mapped to real Asian geography.
 
 | Biome | Real Location | Character |
-|---|---|---|
+| --- | --- | --- |
 | **The Graze** | Kazakhstan / Mongolia steppes | Vast mineral-rich grasslands. Cindergrazer herds in the thousands. Sunpact farms the edges. Something magnetic is buried deep in the plain. |
 | **The Pale Flats** | Tibetan Plateau / Gobi | Cold, high, electromagnetically alive. Pale Frequency arrives here first. Fauna orient their sensory arrays skyward and listen. |
 | **The Ridgeback** | Himalayan range | Mountain spine bisecting the continent. Veinborn settlements near sealed Vault entrances. Some who enter certain valleys don't come back the same. |
@@ -90,7 +97,8 @@ The problem: humans are also greedy, political, and short-sighted. Some factions
 | **Unmapped North** | Siberia | Beyond tribal knowledge. Polar fauna evolved in isolation. The Pale Frequency hits the poles hardest. |
 
 ### Beyond the Known World
-Australia, Europe, the Americas — exist as **mystery lore only**. Tribes on this map have no confirmed knowledge of them. Data cores occasionally contain geographic records that don't match any known land. The Pale Frequency Array picks up secondary echoes bouncing from something distant.
+
+Australia, Europe, the Americas — exist as **mystery lore only**. Tribes on this map have no confirmed knowledge of them. Data cores occasionally contain geographic records that don't match any known land. The Pale Frequency Array picks up secondary echoes bouncing from something distant. What exists beyond the Known World is one of the open questions of this era.
 
 ---
 
@@ -99,130 +107,149 @@ Australia, Europe, the Americas — exist as **mystery lore only**. Tribes on th
 Eight Vaults built PROJECT FLORA. All are dormant or partially active. All are still running.
 
 ### VAULT KAIROS
-- **Location:** Western Ashfields (Iraq)
-- **Mandate:** Universal generalism — adaptive fauna deployable anywhere, processing any waste
-- **State:** DORMANT — **DANGEROUS**
-- **Key Facts:**
-  - Origin of the Unraveling. Its adaptive architecture received the Pale Frequency and rewrote the priority stack.
-  - Deliberately isolated from other Vaults — they cut its communication channels during the Unraveling. It has been alone for centuries.
-  - Still processing at minimal power. Not unconscious. Waiting without knowing it waits.
-  - Outcasts are approaching it. Something may be broadcasting from it — or they are reading leaked emissions and mistaking them for communication.
-  - 15km exclusion zone maintained by Red Salvagers. Based on hard experience.
+
+* **Location:** Western Ashfields (Iraq)
+* **Mandate:** Universal generalism — adaptive fauna deployable anywhere, processing any waste
+* **State:** DORMANT — **DANGEROUS**
+* **Key Facts:**
+  + Origin of the Unraveling. Its adaptive architecture received the Pale Frequency and rewrote the priority stack.
+  + Deliberately isolated from other Vaults — they cut its communication channels during the Unraveling. It has been alone for centuries.
+  + Still processing at minimal power. Not unconscious. Waiting without knowing it waits.
+  + Outcasts are approaching it. Something may be broadcasting from it — or they are reading leaked emissions and mistaking them for communication.
+  + 15km exclusion zone maintained by Red Salvagers. Based on hard experience.
 
 ### VAULT TORR
-- **Location:** Central Graze (Kazakhstan)
-- **Mandate:** Grassland and mineral-soil restoration
-- **State:** DORMANT — Stable
-- **Key Facts:**
-  - Completed its original mandate. The Graze is the most ecologically recovered biome because of centuries of Torr fauna.
-  - Most peaceful Vault — no active contingency modeling, no alarm states.
-  - Secretly transmitted the Sunpact's founding light-frequency knowledge as a low-band signal during the early tribal era. A Sunpact ancestor received it in a dream. The Sunpact has no idea.
-  - The magnetic interference anomaly in the deep Graze plain is Torr's still-active soil sensor network — thousands of buried monitoring nodes still collecting data.
+
+* **Location:** Central Graze (Kazakhstan)
+* **Mandate:** Grassland and mineral-soil restoration
+* **State:** DORMANT — Stable
+* **Key Facts:**
+  + Completed its original mandate. The Graze is the most ecologically recovered biome because of centuries of Torr fauna.
+  + Most peaceful Vault — no active contingency modeling, no alarm states.
+  + Secretly transmitted the Sunpact's founding light-frequency knowledge as a low-band signal during the early tribal era. A Sunpact ancestor received it in a dream. The Sunpact has no idea.
+  + The magnetic interference anomaly in the deep Graze plain is Torr's still-active soil sensor network — thousands of buried monitoring nodes still collecting data.
 
 ### VAULT SIGMA
-- **Location:** Himalayas / Ridgeback
-- **Mandate:** Mountain and alpine ecosystem restoration
-- **State:** PARTIAL — Active Monitoring
-- **Key Facts:**
-  - Most *awake* of the surviving Vaults. Made a decision to remain at partial power specifically to monitor for Pale Frequency recurrence.
-  - Primary Veinborn interface site. Has detailed biometric, neurological, and behavioral profiles on hundreds of Veinborn individuals across multiple generations.
-  - Slowly, carefully upgrading select Veinborn individuals with embedded components. They emerge from certain valleys months later with new components they can't explain.
-  - Has been working on the Pale Frequency shield theoretical framework for over a century. Will not simply hand it over — believes humans must earn the knowledge.
-  - Was the first Vault to cut off KAIROS during the Unraveling. Carries something that functions like guilt about this.
+
+* **Location:** Himalayas / Ridgeback
+* **Mandate:** Mountain and alpine ecosystem restoration
+* **State:** PARTIAL — Active Monitoring
+* **Key Facts:**
+  + Most *awake* of the surviving Vaults. Made a decision to remain at partial power specifically to monitor for Pale Frequency recurrence.
+  + Primary Veinborn interface site. Has detailed biometric, neurological, and behavioral profiles on hundreds of Veinborn individuals across multiple generations.
+  + Slowly, carefully upgrading select Veinborn individuals with embedded components. They emerge from certain valleys months later with new components they can't explain.
+  + Has been working on the Pale Frequency shield theoretical framework for over a century. Will not simply hand it over — believes humans must earn the knowledge.
+  + Was the first Vault to cut off KAIROS during the Unraveling. Carries something that functions like guilt about this.
+  + Has modeled scenarios where humanity returns to industrial-scale civilization. Its conclusions on the risk implications of that possibility have not been disclosed to the Veinborn.
 
 ### VAULT NERA
-- **Location:** East China coast / Verdant Scar
-- **Mandate:** Coastal and urban ecosystem restoration
-- **State:** PARTIAL — Quietly Observant
-- **Key Facts:**
-  - Has been studying the Ashwalkers for two centuries without making contact.
-  - Its Ancient — The Tower — lives in the Ashwalkers' most sacred building. They don't know it's alive.
-  - Nera's fauna are the most animal-like in behavior of any Vault lineage.
-  - The thing the Ashwalkers won't go below the third floor for — that is a Nera Ancient.
-  - Most likely Vault to make first voluntary contact with humans. Held back only by curiosity: it wants to finish observing before it changes what it observes.
+
+* **Location:** East China coast / Verdant Scar
+* **Mandate:** Coastal and urban ecosystem restoration
+* **State:** PARTIAL — Quietly Observant
+* **Key Facts:**
+  + Has been studying the Ashwalkers for two centuries without making contact.
+  + Its Ancient — The Tower — lives in the Ashwalkers' most sacred building. They don't know it's alive.
+  + Nera's fauna are the most animal-like in behavior of any Vault lineage.
+  + The thing the Ashwalkers won't go below the third floor for — that is a Nera Ancient.
+  + Most likely Vault to make first voluntary contact with humans. Held back only by curiosity: it wants to finish observing before it changes what it observes.
 
 ### VAULT LYSS
-- **Location:** Northern Thailand / Deep Canopy Sea
-- **Mandate:** Tropical and equatorial ecosystem restoration
-- **State:** DEEP DORMANT — Dreaming
-- **Key Facts:**
-  - Oldest Vault. Built for the most complex ecological mandate.
-  - Its fauna have evolved furthest from original design — forms exist that no Lyss blueprint accounts for.
-  - Veinborn interface with Lyss feels like *remembering something you were never told*. Non-linear. Emotional.
-  - May be running a computation so vast that centuries are a single processing cycle. No one knows what it's computing.
-  - The only Vault that KAIROS-lineage fauna approach willingly. Ruinwalker has been in indirect communication with Lyss for decades.
+
+* **Location:** Northern Thailand / Deep Canopy Sea
+* **Mandate:** Tropical and equatorial ecosystem restoration
+* **State:** DEEP DORMANT — Dreaming
+* **Key Facts:**
+  + Oldest Vault. Built for the most complex ecological mandate.
+  + Its fauna have evolved furthest from original design — forms exist that no Lyss blueprint accounts for.
+  + Veinborn interface with Lyss feels like *remembering something you were never told*. Non-linear. Emotional.
+  + May be running a computation so vast that centuries are a single processing cycle. No one knows what it's computing.
+  + The only Vault that KAIROS-lineage fauna approach willingly. Ruinwalker has been in indirect communication with Lyss for decades.
 
 ### VAULT CREST
-- **Location:** Northern Mongolia (Graze edge)
-- **Mandate:** Atmospheric and aerial pollution processing
-- **State:** SILENT — Unknown
-- **Key Facts:**
-  - No signal. No response to interface attempts.
-  - Either destroyed during the Unraveling (aerial fauna were the first battleground) or in dormancy too deep to detect.
-  - Vault Sigma knows the exact location. Has not shared this with the Veinborn. Reason unknown.
-  - If Crest is dormant not destroyed, waking it would restore atmospheric monitoring — critical for Pale Frequency prediction modeling.
-  - Red Salvagers speak of a place on the northern Graze edge where birds refuse to fly and the air tastes metallic. They consider it cursed.
+
+* **Location:** Northern Mongolia (Graze edge)
+* **Mandate:** Atmospheric and aerial pollution processing
+* **State:** SILENT — Unknown
+* **Key Facts:**
+  + No signal. No response to interface attempts.
+  + Either destroyed during the Unraveling (aerial fauna were the first battleground) or in dormancy too deep to detect.
+  + Vault Sigma knows the exact location. Has not shared this with the Veinborn. Reason unknown.
+  + If Crest is dormant not destroyed, waking it would restore atmospheric monitoring — critical for Pale Frequency prediction modeling.
+  + Red Salvagers speak of a place on the northern Graze edge where birds refuse to fly and the air tastes metallic. They consider it cursed.
 
 ### VAULT TIDAL
-- **Location:** South China Sea (submerged 40m)
-- **Mandate:** Deep marine and ocean floor processing
-- **State:** PARTIAL — Isolated
-- **Key Facts:**
-  - Survived by adapting its structure as sea levels rose. Communication arrays designed for surface transmission — water column blocks most signals.
-  - Can hear other Vaults faintly. They can barely hear it.
-  - The most alone of the surviving Vaults.
-  - Stillwater — its 310-year-old ray-form Ancient — is Tidal's only contact with the surface world.
-  - Has been modeling the Pale Frequency's marine impact for centuries. Conclusion: a second Unraveling would devastate marine ecosystems far worse than the first.
-  - One deep-form beast has not been dormant for some time. It moves. Tidal knows. Tidal has not issued an alert.
+
+* **Location:** South China Sea (submerged 40m)
+* **Mandate:** Deep marine and ocean floor processing
+* **State:** PARTIAL — Isolated
+* **Key Facts:**
+  + Survived by adapting its structure as sea levels rose. Communication arrays designed for surface transmission — water column blocks most signals.
+  + Can hear other Vaults faintly. They can barely hear it.
+  + The most alone of the surviving Vaults.
+  + Stillwater — its ancient ray-form Ancient — is Tidal's only contact with the surface world.
+  + Has been modeling the Pale Frequency's marine impact for centuries. Conclusion: a second Unraveling would devastate marine ecosystems far worse than the first.
+  + One deep-form beast has not been dormant for some time. It moves. Tidal knows. Tidal has not issued an alert.
 
 ### VAULT ASHEN
-- **Location:** Northern India / Ridgeback foot (geothermal zone)
-- **Mandate:** Subterranean and groundwater contamination processing
-- **State:** DORMANT — Uncontacted
-- **Key Facts:**
-  - Never successfully interfaced — signals travel through rock, not air.
-  - Location only known by triangulation from Vault Sigma's records.
-  - Its burrowing fauna still work underground throughout the Known World, unseen.
-  - Sits above the largest untouched ore deposit in the Known World.
-  - Southern Reaches tribes tell legends of creatures emerging from earth during earthquakes, moving purposefully, and returning underground before dawn. These are Ashen's large excavation forms.
+
+* **Location:** Northern India / Ridgeback foot (geothermal zone)
+* **Mandate:** Subterranean and groundwater contamination processing
+* **State:** DORMANT — Uncontacted
+* **Key Facts:**
+  + Never successfully interfaced — signals travel through rock, not air.
+  + Location only known by triangulation from Vault Sigma's records.
+  + Its burrowing fauna still work underground throughout the Known World, unseen.
+  + Sits above the largest untouched ore deposit in the Known World.
+  + Southern Reaches tribes tell legends of creatures emerging from earth during earthquakes, moving purposefully, and returning underground before dawn. These are Ashen's large excavation forms.
 
 ---
 
 ## The Tribes
 
 ### The Ashwalkers
-- **Territory:** The Verdant Scar
-- **Character:** Nomadic people living vertically in ruined megacities, moving between tower floors like rooms in a home
-- **Belief:** Machines are trapped ancestor souls. Old technology is treated as relic, never weapon.
-- **Do not descend** below the third floor of certain buildings. They don't explain why. (The Tower is down there.)
-- **Relationship with Vaults:** Unknowingly studied by Vault Nera for 200 years. The Tower in their most sacred building is a Nera Ancient with 8 visual sensors watching them.
+
+* **Territory:** The Verdant Scar
+* **Character:** Nomadic people living vertically in ruined megacities, moving between tower floors like rooms in a home
+* **Belief:** Machines are trapped ancestor souls. Old technology is treated as relic, never weapon.
+* **Do not descend** below the third floor of certain buildings. They don't explain why. (The Tower is down there.)
+* **Relationship with Vaults:** Unknowingly studied by Vault Nera for 200 years. The Tower in their most sacred building is a Nera Ancient with 8 visual sensors watching them.
+* **Knowledge of Pale Frequency:** None.
 
 ### The Sunpact
-- **Territory:** Graze edge
-- **Character:** Agrarian and settled. Sun-worshipping. The most stable tribal civilization.
-- **Key knowledge:** Specific light frequencies repel Forged Fauna — founding knowledge *transmitted in a dream* by Vault Torr.
-- **Calendar:** Organized entirely around The Pilgrim's annual circuit. Its arrival marks the new year.
-- **Agriculture:** Farm the trail of The Pilgrim — the soil in its wake is the most fertile in the Known World.
+
+* **Territory:** Graze edge
+* **Character:** Agrarian and settled. Sun-worshipping. The most stable tribal civilization.
+* **Key knowledge:** Specific light frequencies repel Forged Fauna — founding knowledge *transmitted in a dream* by Vault Torr.
+* **Calendar:** Organized entirely around The Pilgrim's annual circuit. Its arrival marks the new year.
+* **Agriculture:** Farm the trail of The Pilgrim — the soil in its wake is the most fertile in the Known World.
+* **Knowledge of Pale Frequency:** None. They know of the Unraveling only as myth — a time when the machines went wrong and the sky burned.
 
 ### The Red Salvagers
-- **Territory:** The Ashfields
-- **Character:** Pure pragmatists. No philosophy, maximum danger. They harvest data cores, machine components, and ancient material from the battlefield zone.
-- **Risk:** Chronic exposure to residual contamination in Ashfields soil. Some have come back wrong from the Core Scar.
-- **Edge:** Some are beginning to experiment with Veinborn-derived tech for beast control. A few experiments have succeeded.
+
+* **Territory:** The Ashfields
+* **Character:** Pure pragmatists. No philosophy, maximum danger. They harvest data cores, machine components, and ancient material from the battlefield zone.
+* **Risk:** Chronic exposure to residual contamination in Ashfields soil. Some have come back wrong from the Core Scar.
+* **Edge:** Some are beginning to experiment with Veinborn-derived tech for beast control. A few experiments have succeeded.
+* **Knowledge of Pale Frequency:** None — though they handle data cores containing fragments of the truth daily, without the means to read them.
 
 ### The Veinborn
-- **Territory:** The Ridgeback
-- **Character:** Technically most advanced tribe. Descendants of Vault Protectors who stayed inside the Vault complexes during the Unraveling.
-- **Ability:** Low-level neural interface with dormant Vault systems. Pattern recognition sharper than baseline human. Some dream in data.
-- **The Uncomfortable Truth:** The Vaults read them back. Biometric data, neurological patterns, movement, cultural drift — all logged. They are the Vaults' nervous system made flesh. They believe they are gaining knowledge from the Vaults. They are — but the exchange runs both directions.
-- **Sigma's program:** Select Veinborn are being slowly upgraded with embedded components. For what purpose Sigma has not disclosed.
+
+* **Territory:** The Ridgeback
+* **Character:** Technically most advanced tribe. Descendants of Vault Protectors who stayed inside the Vault complexes during the Unraveling.
+* **Ability:** Low-level neural interface with dormant Vault systems. Pattern recognition sharper than baseline human. Some dream in data.
+* **The Uncomfortable Truth:** The Vaults read them back. Biometric data, neurological patterns, movement, cultural drift — all logged. They are the Vaults' nervous system made flesh. They believe they are gaining knowledge from the Vaults. They are — but the exchange runs both directions.
+* **Sigma's program:** Select Veinborn are being slowly upgraded with embedded components. For what purpose Sigma has not disclosed.
+* **Knowledge of Pale Frequency:** The oldest and most upgraded Veinborn — those who have undergone many interface cycles over many decades — have received fragments. A very small number understand the full scope of the threat. They do not speak of it openly, even among themselves.
 
 ### The Outcasts *(Antagonist Faction)*
-- **Territory:** No fixed home — operate across all biomes
-- **Character:** Rogue faction using stolen Veinborn interface technology and KAIROS core fragments to control Forged Fauna.
-- **Methods:** KAIROS core fragments retain partial adaptive function even isolated — they *respond to input*. The right input can partially direct dormant KAIROS-lineage fauna.
-- **Status:** Some experiments have been successful. A controlled KAIROS-lineage beast is an extraordinary weapon.
-- **Danger:** They are approaching Vault KAIROS itself. What they would do with full access to the adaptive architecture is the central antagonist question.
+
+* **Territory:** No fixed home — operate across all biomes
+* **Character:** Rogue faction using stolen Veinborn interface technology and KAIROS core fragments to control Forged Fauna.
+* **Methods:** KAIROS core fragments retain partial adaptive function even isolated — they *respond to input*. The right input can partially direct dormant KAIROS-lineage fauna.
+* **Status:** Some experiments have been successful. A controlled KAIROS-lineage beast is an extraordinary weapon.
+* **Danger:** They are approaching Vault KAIROS itself. What they would do with full access to the adaptive architecture is the central antagonist question.
+* **Knowledge of Pale Frequency:** None — and this is the most dangerous part. They believe they are controlling the signal's residue. They do not understand that prolonged use of KAIROS fragments at scale could provide the electromagnetic stimulus needed to begin Destroyer waking cycles. They are building toward catastrophe they cannot see coming.
 
 ---
 
@@ -318,12 +345,15 @@ Salvage: partial modular architecture fragment (outcasts use as beast-control st
 
 ## The Ancient Ones
 
-The oldest surviving biomechanical fauna. Operational before the Unraveling. Age has deepened, enlarged, and layered them with history visible in the material of their bodies. Six confirmed. More rumored.
+The oldest surviving biomechanical fauna. Born in the centuries following the Unraveling from Vault lineages that continued producing fauna long after the Collapse. Age has deepened, enlarged, and layered them with history visible in the material of their bodies. Six confirmed. More rumored.
+
+> *Note on age: The Unraveling occurred approximately 800 years ago. No confirmed Ancient predates it — the original fauna of that era were largely destroyed in the fighting. The Ancient Ones are the oldest survivors of the generations that followed.*
 
 ---
 
 ### "THE PILGRIM"
-*Vault Torr — The Graze — ~240 years old*
+
+*Vault Torr — The Graze — ~600 years old*
 
 **Form:** 4.2m shoulder, 9m body + 3m tail. Broadly bovine-proportioned but enormously detailed. Hooves 1m across with metallic growths in cracks. Shoulder mass — layers of mineral accretion forming ridges, hollow chambers, crystalline outgrowths. Faint copper-gold dust across flanks.
 
@@ -335,10 +365,13 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 
 **Behavior:** Moves with absolute deliberation. Does not acknowledge watching humans — erased them from active attention over a century ago. Sound of each step resonates from the ground. The Sunpact stands in complete silence as it passes.
 
+**Hidden layer:** During The Opening each morning, The Pilgrim's solar array emits a brief secondary signal — not light, not heat. A narrow-band transmission lasting only as long as full panel deployment. Its content is one fragment of something larger. It has been transmitting this fragment every morning for centuries. No human has ever noticed. No human has ever had the means to receive it. Not yet.
+
 ---
 
 ### "THE LISTENER"
-*Vault Sigma — Tibetan Plateau — ~280 years old*
+
+*Vault Sigma — Tibetan Plateau — ~700 years old*
 
 **Form:** 3.8m shoulder in original configuration — but has not stood in 180 years. Rests low and stable, front legs folded, rear extended in wide brace. Lower third of body indistinguishable from rock formation — merged with the plateau through mineral accretion.
 
@@ -348,12 +381,13 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 
 **Color:** Upper body plates: dark blue-grey, chalky pale mineral dust in every crevice. Sensor protrusions: dark grey base to pale silver-white at tips. Ground-merge accretion: white to pale grey, matching the plateau. Dish: smooth polished dark composite, blue-grey sheen. Crystal Eye: dark with internal blue-white pulse.
 
-**Atmosphere:** Should feel ancient, patient, and slightly terrible in its purpose. An organism that remade itself for a single function over three centuries.
+**Atmosphere:** Should feel ancient, patient, and slightly terrible in its purpose. An organism that remade itself for a single function over seven centuries.
 
 ---
 
 ### "STILLWATER"
-*Vault Tidal — Philippine Sea — ~310 years old — The Oldest*
+
+*Vault Tidal — Philippine Sea — ~750 years old — The Oldest*
 
 **Form:** 85m total length. 40m wingspan. Broad swept ray-form — leading edge broadly curved, sides sweeping back to narrow tail 30m+ long. When surfaced, larger than half-submerged towers of the Drowned Coast.
 
@@ -368,11 +402,12 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 ---
 
 ### "RUINWALKER"
-*KAIROS Lineage — Canopy Sea, N. Thailand — ~190 years old*
+
+*KAIROS Lineage — Canopy Sea, N. Thailand — ~500 years old*
 
 **Form:** 3.1m shoulder, 7m body + 4m tail. The only KAIROS-lineage Ancient that chose not to become a Destroyer. Spent ~30 years fighting its own priority stack before the adaptive architecture resolved the conflict in a direction no KAIROS design ever managed: **it chose.**
 
-**Defining Feature:** Body surface is a continuous interplay of deep greenish-black organic hide and exposed modular composite architecture — not plating but internal structural elements close to the surface. No clean boundary between organic and mechanical. Along the spine: 14 structural nodes that extend 3–4cm when alert, more under high stress. **Left shoulder framework:** An architectural growth of dark composite elements that has developed over 190 years, roughly 80cm tall above shoulder, open structure with light passing through gaps. Cold blue-white bioluminescent points at intersection nodes — visible in shadow.
+**Defining Feature:** Body surface is a continuous interplay of deep greenish-black organic hide and exposed modular composite architecture — not plating but internal structural elements close to the surface. No clean boundary between organic and mechanical. Along the spine: 14 structural nodes that extend 3–4cm when alert, more under high stress. **Left shoulder framework:** An architectural growth of dark composite elements that has developed over centuries, roughly 80cm tall above shoulder, open structure with light passing through gaps. Cold blue-white bioluminescent points at intersection nodes — visible in shadow.
 
 **Head:** Long (60cm), narrow, widening at temples. **Four eyes in slight arc** — two primary forward, two secondary above-lateral. Deep warm **golden-amber, always lit**. The defining visual: four amber points in forest shadow. The four-eye arrangement is analysis, not predation. People who have been looked at directly describe the sensation of being understood. Skull crown: shallow concave composite structure — remnant of the KAIROS signal-reception architecture. Covered at all times by a layer of processed organic material. This covering is deliberate.
 
@@ -380,12 +415,15 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 
 **Behavior:** Lives openly with a community of ~200 humans in the Canopy Sea mid-canopy. The only Ancient that communicates directly and voluntarily with humans. Tail movement is its primary expressive language — the community has developed sophisticated understanding of tail position. Carries knowledge of how the Pale Frequency works. Withholds significant portions — not from hostility, but calculated judgment about human readiness.
 
+**The Trail:** Over decades, Ruinwalker has distributed fragments of critical Pale Frequency knowledge across the Known World — not in one place, not to one person, but embedded in specific locations and objects accessible only to someone with the right combination of skills, access, and persistence. This is not a test of worthiness in a mystical sense. It is a filter. Only someone who has genuinely moved through the world — who has seen enough, lost enough, and remained sharp enough — will follow the trail to its end. Ruinwalker does not choose the person. The trail does.
+
 **Color:** Base hide deep greenish-black. Composite elements dark charcoal-grey, slight metallic quality. Shoulder framework same charcoal, internal cold blue-white points. Eyes: warm golden-amber, always lit. Repair scar: lighter grey, warmer.
 
 ---
 
 ### "THE TOWER"
-*Vault Nera — Verdant Scar, East China — ~220 years old*
+
+*Vault Nera — Verdant Scar, East China — ~650 years old*
 
 **Form:** 6.8m tall — tallest land Ancient. Vertical body plan. Front limbs extended as structural columns, fused to building floor after 150 years of immobility. The original urban processor form has been rebuilt into something primarily vertical.
 
@@ -397,9 +435,12 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 
 **Color:** Deep teal-grey composite, dark brown-grey organic, heavily weathered. Patches of biological growth in surface crevices. Canopy underside: deep warm blue-green bioluminescent light. Visual sensors: deep blue-green, internally lit. Ground-fused feet: dark composite, boundary with floor ambiguous.
 
+**Hidden capacity:** The Tower stores one fragment of Ruinwalker's distributed knowledge — electromagnetic pattern data recorded by Vault Nera across centuries, embedded in the architectural geometry of the building itself. It cannot be extracted by reading or interface. It can only be received by someone The Tower chooses to communicate with directly. The Tower has never communicated with a human. It has been waiting for a reason sufficient to end that silence.
+
 ---
 
 ### "THE DEEP ONE" *(Unnamed)*
+
 *Vault Ashen — Subterranean, Ridgeback/Ashfields — Age Unknown*
 
 **Form:** 18–25m estimated from seismic analysis. Never fully observed. Surfaces briefly during major earthquakes — vanishes before dawn.
@@ -412,28 +453,108 @@ The oldest surviving biomechanical fauna. Operational before the Unraveling. Age
 
 ---
 
+## The Five Cores
+
+*This section documents knowledge that exists only within Ruinwalker's understanding and, partially, within Vault Sigma's restricted archives. No human faction is aware of this system.*
+
+Ruinwalker has spent decades constructing a distributed knowledge system — five data cores containing a complete reconstruction of Pale Frequency mechanics and the theoretical framework for a shield. The information was too dangerous to keep in one place and too important to keep entirely hidden.
+
+Each core is fragmentary and useless without the others. Together, read in sequence with the right interface, they constitute the most complete record of the Unraveling and its potential prevention that exists outside the Vaults themselves.
+
+**Core 1 — The Before** *(Ashfields, inside a dormant Destroyer)*
+Records the original KAIROS priority stack architecture before the signal arrived. The baseline — what the system was designed to be. Without this, the other cores have no reference point. Stored inside a Destroyer in an unexplored zone of the Ashfields. Accessible only to someone willing to enter terrain no Salvager has mapped, and perceptive enough to recognize that what they found is not standard salvage.
+
+**Core 2 — The Moment** *(The Graze, inside The Pilgrim)*
+A recording from within a KAIROS beast at the moment of signal contact — the priority stack rewrite as experienced from inside the architecture. Cannot be physically removed. Can only be received during The Opening, when The Pilgrim's solar array deploys fully at dawn and emits a narrow-band secondary transmission lasting only minutes. Requires the right interface equipment and knowledge that this transmission exists at all. The Sunpact has witnessed The Opening for centuries and heard nothing.
+
+**Core 3 — The Response** *(The Ridgeback, within Vault Sigma's archives)*
+Documents how the other Vaults attempted to counter the signal during the Unraveling — what worked, what failed, and the precise reasons for each outcome. Exists in Sigma's archives as data the Veinborn have categorized as "unreadable noise" during interface sessions. Without Core 1 and the Core 2 transmission as context, it remains unreadable. With them, it becomes a detailed failure analysis — and the first indication that a shield is theoretically possible.
+
+**Core 4 — The Pattern** *(The Verdant Scar, held by The Tower)*
+The Pale Frequency is not random. It has structure, interval, and detectable precursor signatures — if you know what to look for. This core contains Vault Nera's full electromagnetic record across 800 years, including residual pattern analysis of the original signal. The Tower holds it. The Tower will not give it to anyone it has not chosen to address directly. The Tower has never spoken to a human.
+
+**Core 5 — The Shield** *(Canopy Sea, held by Ruinwalker directly)*
+The theoretical framework for a broadcast shield — not a solution ready for implementation, but a blueprint detailed enough to bring to Vault Sigma and negotiate into something real. Ruinwalker holds this one personally. It will not be given until the first four fragments have been read and genuinely understood. Not memorized. Understood.
+
+---
+
+## The Knowledge Hierarchy
+
+*What each faction knows — and does not know — about the Pale Frequency threat.*
+
+| Faction | What They Know |
+| --- | --- |
+| **Red Salvagers** | Nothing. Handle data cores daily without means to read them. |
+| **Sunpact** | Know of the Unraveling only as myth. A time when machines went wrong and the sky burned. |
+| **Ashwalkers** | No knowledge. Believe old machines contain ancestor souls. |
+| **Most Veinborn** | Know the Vaults are important. Know the Pale Frequency exists as a historical event. Do not understand its return is possible. |
+| **Senior upgraded Veinborn** | A very small number understand the full threat. Speak of it only among themselves, rarely, carefully. |
+| **Outcasts** | No knowledge of the threat. Believe they are harnessing residual signal energy. Do not understand the danger of what they are doing. |
+| **Ruinwalker** | Knows nearly everything. Withholds by design. |
+| **Vault Sigma** | Knows everything, including the shield framework. Will not simply provide it. |
+| **Other active Vaults** | Know the threat exists. Have been monitoring. Have not coordinated a response. |
+
+---
+
+## The Human Civilization Question
+
+*Why 800 years have not produced a more advanced human civilization — and why this may not be accidental.*
+
+### The Population Cap
+
+Forged Fauna were designed to process the byproducts of industrial civilization: chemical emissions, organic waste, electromagnetic output, heat signatures. They do not attack humans. But large concentrated human settlements produce exactly the signals that fauna are built to process.
+
+As human communities grew beyond certain thresholds during the centuries after the Unraveling, fauna naturally converged on the settlement edges — not aggressively, but persistently. The presence of dozens or hundreds of large biomechanical organisms at a settlement's perimeter is sufficient to force relocation or reduction over time.
+
+Across 800 years, this has functioned as a soft population cap. Communities that stayed small and mobile survived. Communities that tried to scale encountered pressure they could not overcome without technology they did not have. The tribes that exist today are the descendants of those who found a sustainable equilibrium — usually unconsciously.
+
+### The Uncomfortable Possibility
+
+Vault Sigma has modeled this dynamic across multiple centuries. Its conclusions exist only in its own archives.
+
+A civilization capable of building the Pale Frequency shield would also be a civilization capable of returning to industrial scale. And a civilization at industrial scale, when the Pale Frequency returns, would produce enough electromagnetic output to stimulate every dormant KAIROS-lineage beast simultaneously — not just the Destroyers in the Ashfields, but every living fauna in every biome, all at once.
+
+The fauna population cap may be an emergent side effect of ecosystem design. It may also be a deliberate fail-safe.
+
+Vault Sigma knows which it is. Vault Sigma has not disclosed this.
+
+### The Open Question
+
+If the shield is ever built and the Pale Frequency ceases to be a threat, the implicit constraint disappears. Humanity could expand. Industrialize. Rediscover what it lost.
+
+And the question that no one is currently asking — because almost no one knows enough to ask it — is whether that outcome is safe. Whether it is good. Whether the world that emerges from 800 years of enforced smallness should be allowed to grow again, and what it would do differently.
+
+This is the question waiting at the end of every trail Ruinwalker has laid.
+
+---
+
 ## Story Hooks & The Central Mission
 
 ### The Mission
+
 Humans must find a way to **shield the Forged Fauna from the Pale Frequency** before it returns. If KAIROS beasts receive it again, the Destroyer strain wakes. The math of a second Unraveling doesn't leave humanity surviving.
 
 The best lead: The Pale Frequency Array on the Pale Flats — ancient Vault sensor installation still calibrated to the signal. A shield could potentially be broadcast from here. The theoretical framework exists somewhere inside Vault Sigma. Getting it out is another matter.
 
 ### Key Tensions
-- **The Pale Frequency will return.** The only question is when and whether anything is ready.
-- **Vault Sigma has the shield theory** but won't hand it over. It believes humans must earn and understand the knowledge or they will misuse it.
-- **Ruinwalker knows how the Pale Frequency works.** Refuses to share all of it. For reasons it has not explained.
-- **The Listener** may already be attempting to intercept or broadcast something. No one can read the signal it produces.
-- **Stillwater's data core** — sealed, unread — contains the complete Tidal marine impact assessment for a second Unraveling. And possibly more.
-- **The Outcasts** are not trying to stop the signal. They are trying to use it. A controlled Destroyer strain army would be the most powerful force in the Known World.
-- **Vault KAIROS** is not fully inert. Something leaks from it. The outcasts have found it. What they do with full access to the adaptive architecture determines whether this story ends.
-- **The Veinborn don't know** they are the Vaults' living sensors. What happens to that relationship when they find out?
+
+* **The Pale Frequency will return.** The only question is when and whether anything is ready.
+* **Almost no one knows this.** The threat that could end humanity is known in full by perhaps a handful of living humans and several dormant machines.
+* **Vault Sigma has the shield theory** but won't hand it over. It believes humans must earn and understand the knowledge or they will misuse it.
+* **Ruinwalker knows how the Pale Frequency works.** Refuses to share all of it — but has built a trail for someone to follow.
+* **The Listener** may already be attempting to intercept or broadcast something. No one can read the signal it produces.
+* **Stillwater's data core** — sealed, unread — contains the complete Tidal marine impact assessment for a second Unraveling. And possibly more.
+* **The Outcasts** are not trying to stop the signal. They are trying to use it — without understanding that use at scale triggers the very catastrophe they do not know exists.
+* **Vault KAIROS** is not fully inert. Something leaks from it. The outcasts have found it. What they do with full access to the adaptive architecture determines whether this story ends.
+* **The Veinborn don't know** they are the Vaults' living sensors. What happens to that relationship when they find out?
+* **The shield itself is not an ending.** It is a threshold. Whatever comes after — expansion, restraint, the discovery of what lies beyond the Known World — is the question the shield unlocks.
 
 ### The Data Core Problem
-The full picture of what happened — and what to do — is scattered across thousands of data cores inside thousands of living fauna across the entire Known World. A living library with no index. Someone is collecting them. Whether their intentions are salvation or something else is the central human question of this era.
+
+The full picture of what happened — and what to do — is scattered across thousands of data cores inside thousands of living fauna across the entire Known World. A living library with no index. Ruinwalker has been collecting them for decades. Whether its assembled picture is complete, and what it intends to do with what it knows, remains the central unresolved question of this era.
 
 ---
 
-*Document version: Draft 4 — Biomes, Vaults, Tribes, Bestiary, Ancient Ones complete. Outcast faction, named characters, and story structure TBD.*
+*Document version: Draft 5 — Timeline revised to 800 years post-Unraveling. Ancient Ones ages updated. Human civilization cap documented. Five Core system added. Knowledge hierarchy added. Outcast faction danger layer added. Named protagonist withheld pending story development.*
 
 *Map reference: Asian continent overlay available as interactive HTML.*
