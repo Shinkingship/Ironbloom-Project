@@ -1,103 +1,104 @@
-# IRONBLOOM — World Codex
+# IRONBLOOM
 
-> *A living worldbuilding document for the IRONBLOOM fantasy setting.*
-> *Far-future Asia. Biomechanical Convergence. The Pale Frequency. What remains.*
+> *Far-future Asia. Biomechanical Convergence. The Unraveling. What remains.*
 
----
-
-## 🌐 View the Full Codex
-
-**[→ Open the Interactive Wiki](https://shinkingship.github.io/Ironbloom-Project/ironbloom-wiki.html)**
-
-The full lore is available as a searchable, navigable HTML wiki with dark fantasy styling.
+A worldbuilding project. Living document — updated as the world grows.
 
 ---
 
-## 📖 What Is IRONBLOOM?
+## The World in One Paragraph
 
-IRONBLOOM is a far-future fantasy setting inspired by *Horizon Zero Dawn*, grounded in the real geography of the Asian continent.
+Eight hundred years ago, humanity engineered biomechanical organisms to clean a dying planet. A cosmic signal of unknown origin swept through the solar system. The most adaptive of these organisms received it — and rewrote their core directive. Humans registered as biological waste. Ninety-four percent of humanity was gone before the signal faded and the creatures went dormant.
 
-In the distant future, humanity engineered **biomechanical fauna** — living machines — to clean the pollution-choked world. Eight **Genesis Vaults** each built specialists for a different domain: soil, ocean, jungle, mountain, city, sky, deep water, underground.
-
-Then a cosmic signal from deep space — the **Pale Frequency** — rewrote the most adaptive Vault's priority stack. Its beasts classified humans as biological waste. 94% of humanity was wiped out in **The Unraveling**.
-
-Centuries later, civilization has regressed to tribalism. The biomechanical fauna diversified into true ecosystems. The Vaults went dormant — but are still watching, still running, still preparing for when the signal returns.
+What remains: scattered tribal societies, a recovered ecosystem built on the bones of the old world, and eight ancient machines still running in the dark — waiting, monitoring, dreaming — while dormant killers lie buried in the ash and the signal that made them prepares to return.
 
 ---
 
-## 📁 Files
+## Repository Structure
 
-| File | Description |
-|---|---|
-| `index.html` | Full interactive wiki — sidebar nav, search, all lore |
-| `IRONBLOOM.md` | Complete lore in clean Markdown |
-| `README.md` | This file |
-
----
-
-## 🚀 Setup — GitHub Pages (5 minutes)
-
-### Step 1 — Create the repo
-1. Go to [github.com](https://github.com) → **New repository**
-2. Name it `ironbloom`
-3. Set to **Public**
-4. **Don't** initialize with README (you have your own)
-5. Click **Create repository**
-
-### Step 2 — Upload files
-On the empty repo page, click **uploading an existing file** and upload:
-- `index.html`
-- `IRONBLOOM.md`
-- `README.md`
-
-Or if you have Git installed:
-```bash
-git init
-git add .
-git commit -m "Initial IRONBLOOM codex"
-git branch -M main
-git remote add origin https://shinkingship.github.io/Ironbloom-Project.git
-git push -u origin main
+```
+Ironbloom-Project/
+├── README.md                   ← You are here
+├── IRONBLOOM.md                ← World index and timeline
+├── lore/
+│   ├── VAULTS.md               ← The eight Genesis Vaults and PROJECT FORGE
+│   ├── TRIBES.md               ← Four tribes, Outcasts, inter-tribe relations
+│   ├── BESTIARY.md             ← All Forged Fauna by Vault lineage
+│   ├── ANCIENT_ONES.md         ← Six confirmed Ancient Ones
+│   ├── BIOMES.md               ← Geography, biomes, Pale Frequency Array, flora
+│   └── FIVE_CORES.md           ← The Five Cores and Shield System
+└── story/
+    └── KESH_BLUEPRINT.md       ← [SPOILERS] Protagonist story arc — internal use
 ```
 
-### Step 3 — Enable GitHub Pages
-1. Go to your repo → **Settings** → **Pages**
-2. Under **Source**, select **Deploy from a branch**
-3. Branch: `main`, folder: `/ (root)`
-4. Click **Save**
-5. Wait ~2 minutes, then visit: `https://shinkingship.github.io/Ironbloom-Project/`
+---
+
+## The Factions
+
+| Name | Territory | Character |
+|---|---|---|
+| **Sunpact** | The Graze (Kazakhstan) | Agrarian sun-worshippers. The most stable civilization. Farm the trail of a beast that doesn't acknowledge them. |
+| **Veinborn** | The Ridgeback (Himalayas) | Descendants of Vault technicians. Can interface with dormant machines. Don't know the machines read them back. |
+| **Ashwalkers** | The Ashfields (Iraq/Iran) | Salvagers working an 800-year-old battlefield. Pure pragmatists. Handle fragments of civilization-ending knowledge daily without the means to read them. |
+| **Spirekin** | The Verdant Scar (East China) | Live vertically in forest-consumed megacities. Believe machines contain ancestor souls. Don't go below the third floor. |
+| **Outcasts** | Wilderness (everywhere) | Scattered cells experimenting with KAIROS artifacts for beast control. Don't know what they're building toward. |
 
 ---
 
-## ✏️ Updating the Codex
+## The Ancient Ones
 
-When new lore is added, update both `index.html` and `IRONBLOOM.md`, then:
+Six confirmed biomechanical organisms that predate the Unraveling. Age has made them landscapes as much as creatures.
 
-```bash
-git add .
-git commit -m "Add: [what was added]"
-git push
-```
-
-GitHub Pages auto-rebuilds within ~2 minutes.
+| Name | Lineage | Location | Age |
+|---|---|---|---|
+| **Stillwater** | Vault Tidal | Philippine Sea | ~900 years |
+| **The Listener** | Vault Sigma | Tibetan Plateau | ~850 years |
+| **The Pilgrim** | Vault Torr | The Graze | ~810 years |
+| **The Tower** | Vault Nera | Verdant Scar | ~820 years |
+| **Ruinwalker** | KAIROS Lineage | Canopy Sea | ~800 years |
+| **The Deep One** | Vault Ashen | Subterranean | Unknown |
 
 ---
 
-## 🗺️ Current Status — Draft 4
+## The Threat
 
-| Section | Status |
+The Pale Frequency is not a historical event. It moves in a pattern. Patterns repeat.
+
+When it returns, every dormant KAIROS-lineage beast in the world — including the Destroyer strain that ended civilization the first time — will receive it. If nothing has changed, the result is the same.
+
+Almost no one knows this. The knowledge exists in fragments, distributed deliberately across the Known World by the only KAIROS-lineage Ancient that chose not to become a Destroyer. The trail has been waiting 600 years for someone to follow it.
+
+---
+
+## Document Status
+
+| File | Status | Last significant update |
+|---|---|---|
+| IRONBLOOM.md | ✓ Complete | Draft 6 |
+| VAULTS.md | ✓ Complete | v1.0 |
+| TRIBES.md | ✓ Complete | v1.2 |
+| BESTIARY.md | ✓ Complete | v1.0 — all 8 lineages |
+| ANCIENT_ONES.md | ✓ Complete | v1.0 |
+| BIOMES.md | ✓ Complete | v1.0 |
+| FIVE_CORES.md | ✓ Complete | v1.0 |
+
+**Pending:** Named character development, Outcast faction detail, story structure beyond protagonist arc.
+
+---
+
+## Naming Reference
+
+| Term | Meaning |
 |---|---|
-| Setting & The Unraveling | ✅ Complete |
-| Geography & Biomes (8 regions) | ✅ Complete |
-| Genesis Vaults (8 Vaults) | ✅ Complete |
-| Tribes (4 tribes + Outcasts) | ✅ Complete |
-| Bestiary (18 fauna across 8 lineages) | ✅ Complete |
-| Ancient Ones (6 profiles) | ✅ Complete |
-| Outcast Faction (detailed) | 🔲 TBD |
-| Named Characters | 🔲 TBD |
-| Story Structure / Plot | 🔲 TBD |
-| World Map (HTML interactive) | ✅ Built separately |
+| PROJECT FORGE | The original engineering initiative. *"The Verdant Dream"* among believers. |
+| Forged Fauna | The biomechanical organisms created by PROJECT FORGE |
+| Genesis Vaults | The eight research complexes that built and deployed the Forged Fauna |
+| The Unraveling | The collapse — when the Pale Frequency rewrote KAIROS fauna priority stacks |
+| Destroyer strain | KAIROS-lineage fauna that executed the Unraveling. Dormant in the Ashfields. |
+| The Pale Frequency | The cosmic signal. Origin unknown. Not gone. |
+| The Five Cores | Distributed knowledge fragments containing the shield system blueprint |
+| The Known World | The Asian continent — the only region with confirmed current human civilization |
 
 ---
 
-*Inspired by Horizon Zero Dawn. Original setting by Aditya Surya Prabowo.*
+*This is a living document. The world grows as the story does.*
